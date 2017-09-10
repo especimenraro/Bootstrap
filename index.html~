@@ -1,0 +1,200 @@
+<!DOCTYPE html> <html> <head> <title>Blog de Música Chilena</title> <meta name="generator" content="Bluefish 2.2.7" > <meta name="viewport"
+content="width=device-width,user-scalable=no"> <meta name="date" content="2017-09-09T23:05:11-0300" > <meta name="copyright" content=""> <meta
+name="keywords" content=""> <meta name="description" content=""> <meta
+name="ROBOTS" content="NOINDEX, NOFOLLOW"> <meta http-equiv="content-type"
+content="text/html; charset=UTF-8"> <meta http-equiv="content-type"
+content="application/xhtml+xml; charset=UTF-8"> <meta
+http-equiv="content-style-type" content="text/css"> <meta http-equiv="expires"
+content="0"> <link rel="stylesheet" href="css/bootstrap.min.css">
+
+</head> 
+
+<body class="body-cinema">
+
+<! CABECERA>
+
+<header class="container" id="cabecera">
+
+ <div class="row"> 
+<div class="col-lg-3" id="barra">
+<img src="iconos/mifoto.jpg" alt="Fotografía Ricardo Navia" width="300">			
+</div> 
+<div class="col-lg-3 col-lg-offset-6">
+<img src="iconos/mifoto.jpg" alt="FB" width="300">
+<img src="iconos/mifoto.jpg" alt="G+" width="300">
+</div>
+ </div>
+ 
+ </header>
+
+<! BARRA DE NAVEGACION>
+
+<nav class="container" id="barra">
+ <div class="row">
+  <div class="col-lg-12" >
+   <!LISTA HORIZONTAL>
+   <dl class="list-unstyled list-inline">
+   <dt >Inicio</dt>
+   <dt >Artistas</dt>
+   <dt >Bandas</dt>
+   <dt>Letras</dt>
+   <dt>Top 10</dt>
+   <dt>Contacto</dt>
+   
+   </dl>
+		
+		 </div> 
+		 </div> 
+		 </nav>
+		 
+<! CONTENIDOS>
+		 
+ <section class="container"> 
+ 	<div class="row"> 
+ 		<!ENTRADAS>
+ 		<div class="col-lg-7">
+ 			<! ENTRADA 1>
+ 			<div class="row"> 			
+ 				<div class="col-lg-7"> 			
+  					<h1>TITULO 1</h1>
+  					<span>
+   Lorem ipsum dolor sit amet, consecteteur adipiscing elit felis aenean>
+convallis. Rhoncus donec quis. Congue hendrerit sociosqu maecenas quisque>
+convallis dui. Lorem aenean phasellus class quam. A risus dapibus sem feugiat.>
+Rutrum quisque. Vestibulum eni parturient augue vivamus lacinia gravida pede.>
+Felis. Amet class integer donec odio a odio ut non ut. Arcu adipiscing per ipsum>
+potenti natoque ligula imperdiet tortor. Vestibulum vulputate, suspendisse porta>
+hymenaeos cras orci nam orci feugiat. Pretium hac adipiscing ligula, facilisi>
+donec luctus. Sed convallis odio, condimentum gravida, vel et. Tempor sagittis>
+orci, vel. Litora, sed ut nonummy eros, ad diam interdum. Ut morbi aptent.
+					</span>
+				</div>
+				<div class="col-lg-5"> 
+					<! IMAGEN>	
+					<img src="imagenes/mifoto.jpg" alt="Fotografía Ricardo Navia" width="300">						
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-1">
+					<img src="iconos/comentario.jpg" alt="LG">				
+				</div>	
+				<div class="col-lg-11">
+					<div class="form-group">
+						<textarea name="area_texto"></textarea>	
+					</div>							
+				</div>			
+			</div>
+			
+			<! ENTRADA 2>		
+		<div class="row">
+			<div class="col-lg-5"> 
+					<! IMAGEN>	
+					<img src="imagenes/mifoto.jpg" alt="Fotografía Ricardo Navia" width="300">			
+			</div>
+ 			<div class="col-lg-7"> 			
+  					<h1>TITULO 1</h1>
+  					<span>
+   Lorem ipsum dolor sit amet, consecteteur adipiscing elit felis aenean>
+convallis. Rhoncus donec quis. Congue hendrerit sociosqu maecenas quisque>
+convallis dui. Lorem aenean phasellus class quam. A risus dapibus sem feugiat.>
+Rutrum quisque. Vestibulum eni parturient augue vivamus lacinia gravida pede.>
+Felis. Amet class integer donec odio a odio ut non ut. Arcu adipiscing per ipsum>
+potenti natoque ligula imperdiet tortor. Vestibulum vulputate, suspendisse porta>
+hymenaeos cras orci nam orci feugiat. Pretium hac adipiscing ligula, facilisi>
+donec luctus. Sed convallis odio, condimentum gravida, vel et. Tempor sagittis>
+orci, vel. Litora, sed ut nonummy eros, ad diam interdum. Ut morbi aptent.
+					</span>
+			</div>				
+		</div>
+		<div class="row">
+				<div class="col-lg-1">
+					<img src="iconos/comentario.jpg" alt="LG">				
+				</div>	
+				<div class="col-lg-11">
+					<div class="form-group">
+						<textarea name="area_texto"></textarea>	
+					</div>							
+				</div>	
+			</div>		
+		<! ENTRADA 3>
+ 			<div class="row"> 			
+ 				<div class="col-lg-7"> 			
+  					<h1>TITULO 3</h1>
+  					<span>
+   Lorem ipsum dolor sit amet, consecteteur adipiscing elit felis aenean>
+convallis. Rhoncus donec quis. Congue hendrerit sociosqu maecenas quisque>
+convallis dui. Lorem aenean phasellus class quam. A risus dapibus sem feugiat.>
+Rutrum quisque. Vestibulum eni parturient augue vivamus lacinia gravida pede.>
+Felis. Amet class integer donec odio a odio ut non ut. Arcu adipiscing per ipsum>
+potenti natoque ligula imperdiet tortor. Vestibulum vulputate, suspendisse porta>
+hymenaeos cras orci nam orci feugiat. Pretium hac adipiscing ligula, facilisi>
+donec luctus. Sed convallis odio, condimentum gravida, vel et. Tempor sagittis>
+orci, vel. Litora, sed ut nonummy eros, ad diam interdum. Ut morbi aptent.
+					</span>
+				</div>
+				<div class="col-lg-5"> 
+					<! IMAGEN>	
+					<img src="imagenes/mifoto.jpg" alt="Fotografía Ricardo Navia" width="300">						
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-1">
+					<img src="iconos/comentario.jpg" alt="LG">				
+				</div>	
+				<div class="col-lg-11">
+					<div class="form-group">
+						<textarea name="area_texto"></textarea>	
+					</div>							
+				</div>			
+			</div>
+			
+			<! ENTRADA 4>		
+		<div class="row">
+			<div class="col-lg-5"> 
+					<! IMAGEN>	
+					<img src="imagenes/mifoto.jpg" alt="Fotografía Ricardo Navia" width="300">			
+			</div>
+ 			<div class="col-lg-7"> 			
+  					<h1>TITULO 4</h1>
+  					<span>
+   Lorem ipsum dolor sit amet, consecteteur adipiscing elit felis aenean>
+convallis. Rhoncus donec quis. Congue hendrerit sociosqu maecenas quisque>
+convallis dui. Lorem aenean phasellus class quam. A risus dapibus sem feugiat.>
+Rutrum quisque. Vestibulum eni parturient augue vivamus lacinia gravida pede.>
+Felis. Amet class integer donec odio a odio ut non ut. Arcu adipiscing per ipsum>
+potenti natoque ligula imperdiet tortor. Vestibulum vulputate, suspendisse porta>
+hymenaeos cras orci nam orci feugiat. Pretium hac adipiscing ligula, facilisi>
+donec luctus. Sed convallis odio, condimentum gravida, vel et. Tempor sagittis>
+orci, vel. Litora, sed ut nonummy eros, ad diam interdum. Ut morbi aptent.
+					</span>
+			</div>				
+		</div>
+						
+		<div class="row">
+				<div class="col-lg-1">
+					<img src="iconos/comentario.jpg" alt="LG">				
+				</div>	
+				<div class="col-lg-11">
+					<div class="form-group">
+						<textarea name="area_texto"></textarea>	
+					</div>							
+				</div>	
+		</div>		
+			
+			
+		</div>
+		
+		<!BUSCADOR>
+		<div class="col-lg-5">
+			<div class="form-group">				
+				<input type="text" id="Nombre" name="nombre" class="form-control">			
+			</div>
+			<h2>Titulo 1</h2>	
+			<h2>Titulo 2</h2>	
+			<h2>Titulo 3</h2>	
+			<h2>Titulo 4</h2>			
+		</div>
+	</div>
+</section>
+</body>
+</html>

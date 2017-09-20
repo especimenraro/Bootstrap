@@ -8,8 +8,8 @@ background-color: #660033;
 background-color: whitesmoke;
 }
 
-.logo {
-width: 50%;
+.contenedor-logo-social {
+margin-top: 50%;
 }
 
 /*ESTILOS BARRA DE NAVEGACIÓN*/
@@ -46,17 +46,17 @@ color: white;
 }
 
 
-@media (max-width:1366px){
+@media (max-width:1200px){
 #barra {
 height: 100%;
 }
-.logo-social{
-max-width: 50%;
+}
+@media (max-width:768px){
+.contenedor-logo-social{
+margin-top: 0;
+}
+#barra {
+height: 100%;
+}
 }
 
-.logo {
-max-width: 50%;
-}
-
-
-}

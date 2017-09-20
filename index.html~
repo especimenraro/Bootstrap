@@ -4,7 +4,7 @@
 <title>Blog de Música Chilena</title>
 <meta name="generator" content="Bluefish 2.2.7" >
 <meta name="viewport" content="width=device-width,user-scalable=no">
-<meta name="date" content="2017-09-19T21:59:49-0300" > 
+<meta name="date" content="2017-09-20T00:40:43-0300" > 
 <meta name="copyright" content="">
 <meta name="keywords" content=""> 
 <meta name="description" content=""> 
@@ -25,11 +25,22 @@
 
  <div class="row" id="contenedor-cabecera"> 
  	
-<div class="col-lg-3 col-xs-12 col-sm-3"><img src="iconos/musica.png" alt="Fotografía Ricardo Navia" class="img-responsive logo"></div> 
-<div class="col-lg-1 col-lg-offset-5 col-xs-3  col-sm-1 col-sm-offset-5" ><img src="iconos/111419-glypho/png/facebook-logo-button.png" alt="FB" class="img-responsive  logo-social"></div>
-<div class="col-lg-1 col-xs-3 col-sm-1"><img src="iconos/111419-glypho/png/google-plus-logo-button.png" alt="G+"  class="img-responsive logo-social"></div>
-<div class="col-lg-1 col-xs-3 col-sm-1"><img src="iconos/111419-glypho/png/linkedin-logo-button.png" alt="Linkedin" class="img-responsive logo-social"></div>
-<div class="col-lg-1 col-xs-3 col-sm-1"><img src="iconos/111419-glypho/png/twitter-logo-button.png" alt="Twiter"   class="img-responsive logo-social"></div>
+<div class="col-lg-3 col-sm-3 col-xs-3"><img src="iconos/musica.png" alt="Fotografía Ricardo Navia" class="img-responsive logo"></div> 
+<div class="col-lg-4 col-lg-offset-5 col-sm-4 col-sm-offset-5 col-xs-12">
+<div class="row contenedor-logo-social">
+<div class="col-lg-3 col-sm-3 col-xs-2"><a href="http://www.facebook.com" target="_blank"><img src="iconos/111419-glypho/png/facebook-logo-button.png" alt="FB" class="img-responsive logo-social "> </a></div>
+<div class="col-lg-3 col-sm-3 col-xs-2"><a href="http://www.google.com" target="_blank"><img src="iconos/111419-glypho/png/google-plus-logo-button.png" alt="G+"  class="img-responsive logo-social"></a></div>
+<div class="col-lg-3 col-sm-3 col-xs-2"><a href="http://www.linkedin.com" target="_blank"><img src="iconos/111419-glypho/png/linkedin-logo-button.png" alt="Linkedin" class="img-responsive logo-social "></a></div>
+<div class="col-lg-3 col-sm-3 col-xs-2"><a href="http://www.twiter.com" target="_blank"><img src="iconos/111419-glypho/png/twitter-logo-button.png" alt="Twiter"   class="img-responsive logo-social"></a></div>
+</div>
+
+
+</div>
+
+<!div class="col-lg-1 col-sm-1 col-xs-3"><!img src="iconos/111419-glypho/png/google-plus-logo-button.png" alt="G+"  class="img-responsive logo-social"><!/div>
+<!div class="col-lg-1 col-sm-1 col-xs-3"><!img src="iconos/111419-glypho/png/linkedin-logo-button.png" alt="Linkedin" class="img-responsive logo-social"><!/div>
+<!div class="col-lg-1 col-sm-1 col-xs-3"><!img src="iconos/111419-glypho/png/twitter-logo-button.png" alt="Twiter"   class="img-responsive logo-social"><!/div>
+
 </div>
 
  
@@ -58,7 +69,7 @@
  		
  			<! ENTRADA 1>
  			<div class="row entrada-blog" id="entrada1"> 			
- 				<div class="col-lg-7" > 			
+ 				<div class="col-lg-7 texto" > 			
   					<h1 class="titulo-entrada">100 Años de Violeta Parra</h1>
   					<p class="text-justify texto-entrada" >
    El 5 de Octubre de este año se celebran 100 años del nacimiento de la cantora madre de Chile: Violeta Parra.  Violeta del Carmen Parra Sandoval (San Fabián de Alico1​ o San Carlos,2​ 4 de octubre de 1917-Santiago de Chile, 5 de febrero de 1967)   3​4​ fue una cantautora, pintora, escultora, bordadora y ceramista chilena, considerada una de las principales folcloristas en América y gran divulgadora de la música popular de su país, a la que enriqueció con su obra. Es miembro de la prolífica familia Parra.
@@ -66,7 +77,7 @@ Su contribución al quehacer artístico y musical chileno se considera de gran v
  Sus canciones han sido versionadas por diversos artistas, tanto chilenos como extranjeros. En conmemoración de su natalicio, el 4 de octubre fue elegido el «Día de la música y de los músicos chilenos.
 					</p>
 				</div>
-				<div class="col-lg-5"> 
+				<div class="col-lg-5 imagen"> 
 					<! IMAGEN>	
 					<img src="imagenes/violeta.jpeg" alt="Fotografía Ricardo Navia"  class="img-responsive img-thumbnail">						
 				</div>

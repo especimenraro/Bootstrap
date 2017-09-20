@@ -1,59 +1,62 @@
-.body-cinema {
-background-color: gray;}
+.blog {
+background-color: #660033;
+}
+
+/*ESTILOS CABECERA*/
+
+#contenedor-cabecera {
+background-color: whitesmoke;
+}
+
+.logo {
+width: 50%;
+}
+
+/*ESTILOS BARRA DE NAVEGACIÓN*/
 
 #barra {
-height:9px;
-background-color: blue;
-
+background-color: #330099;
+height: 50px;
+border: 3px solid black;
 }
 
-#principal{
-margin-top: 64px;
+/*ESTILOS CONTENIDOS*/
+
+.contenedor-contenidos-principal {
+background-color: #ff0033;
+padding: 5px 5px;
 }
 
-.jumbotron{
-background-color: cyan;
-min-height: 500px;
-margin-bottom: 0px;
-border-radius: 0% 0% 0% 0%;
+.contenidos {
+border: solid 1px black;
+padding-top: 3px;
 }
 
-.titulo-cartelera {
-min-height: 45px;
-background-color: green;
+.entrada-blog {
+background-color: #ff0066;
+padding-top: 10px;
 }
 
-.movies-row{
-background-color: ghostwhite;
-min-height: 350px;
-padding-left: 15px;
-padding-right: 15px;
-
+.texto-entrada {
+color: white;
 }
 
-.movies-column {
-margin-top: 5px;
-background-color: gainsboro;
-min-height: 330px;
-border:1px dotted red;
+.titulo-entrada {
+color: white;
+}
 
-}
-.left-column{
-border:1px dotted gray;
 
+@media (max-width:1366px){
+#barra {
+height: 100%;
 }
-@media (max-height:770px){
+.logo-social{
+max-width: 50%;
+}
 
-.right-column {
-display: none;
+.logo {
+max-width: 50%;
 }
-.movies-row {
-min-height: 250px;
-}
-.movies-column{
-min-height: 230px;
-}
-.jumbotron {
-min-height: 350px;
-}
+
+
 }
